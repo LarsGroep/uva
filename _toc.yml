@@ -4,5 +4,6 @@
 format: jb-book
 root: docs/home
 chapters:
+- file: docs/migration3
 - file: docs/migration1
 - file: docs/migration2

@@ -6,3 +6,4 @@ migration.ipynb filter=lfs diff=lfs merge=lfs -text
 _build/html/_sources/docs/migration.ipynb filter=lfs diff=lfs merge=lfs -text
 _build/jupyter_execute/docs/migration1.ipynb filter=lfs diff=lfs merge=lfs -text
 _build/html/_sources/docs/migration1.ipynb filter=lfs diff=lfs merge=lfs -text
+docs/migration1.ipynb filter=lfs diff=lfs merge=lfs -text
